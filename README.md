@@ -1,8 +1,1 @@
-<html>
-    <head>
-        <title>first page</title>
-    </head>
-    <body>
-        This is a line of text. 
-    </body>
-</html>
+first attempt at coding a portfolio.
